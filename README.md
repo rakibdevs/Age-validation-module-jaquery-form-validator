@@ -1,5 +1,4 @@
-# Age-validation-module-jaquery-form-validator
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Frakibhstu%2FAge-validation-module-jaquery-form-validator)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Frakibhstu%2FAge-validation-module-jaquery-form-validator)
+# Age-validation-module-jaquery-form-validator [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Frakibhstu%2FAge-validation-module-jaquery-form-validator)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Frakibhstu%2FAge-validation-module-jaquery-form-validator)
 
 
 [![GitHub stars](https://img.shields.io/github/stars/rakibhstu/Age-validation-module-jaquery-form-validator)](https://github.com/rakibhstu/Age-validation-module-jaquery-form-validator/stargazers)
