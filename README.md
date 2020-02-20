@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Frakibhstu%2FAge-validation-module-jaquery-form-validator)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Frakibhstu%2FAge-validation-module-jaquery-form-validator)
 
 Age validation module for [jQuery form validator](http://www.formvalidator.net/). Example output,
-![alt text](https://github.com/rakibhstu/Age-validation-module-jaquery-form-validator/age-validator.JPG "")
+![alt text](https://github.com/rakibhstu/Age-validation-module-jaquery-form-validator/blob/master/age-validator.JPG "")
 
 
 ## Configuration
